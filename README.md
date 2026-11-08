@@ -4,6 +4,8 @@
 
 ## Start here
 
+**Repository:** [dianzdd123/Micro_Object_Sim2Real_ICRA_v2](https://github.com/dianzdd123/Micro_Object_Sim2Real_ICRA_v2)
+
 This repository is a fork of [Zongcai23/Micro_Object_Sim2Real_ICRA_v2](https://github.com/Zongcai23/Micro_Object_Sim2Real_ICRA_v2). Original authorship, citations and upstream notices are retained. Changes here apply to this fork.
 
 **Scope:** Multi-stage research workflow; external microscopy data and experiment-specific paths are required.
