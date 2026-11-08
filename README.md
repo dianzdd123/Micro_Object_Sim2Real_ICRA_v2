@@ -1,5 +1,20 @@
 # Physics-Informed Machine Learning for Efficient Sim-to-Real Data Augmentation in Micro-Object Pose Estimation
 
+## Start here
+
+This repository is a fork of [Zongcai23/Micro_Object_Sim2Real_ICRA_v2](https://github.com/Zongcai23/Micro_Object_Sim2Real_ICRA_v2). Original authorship, citations and upstream notices are retained. Changes here apply to this fork.
+
+**Scope:** Multi-stage research workflow; external microscopy data and experiment-specific paths are required.
+
+| Need | Where to start |
+|---|---|
+| Setup, file map, inputs/outputs and troubleshooting | [Reuse guide](docs/REUSE.md) |
+| Local structural validation | `python scripts/check_repository.py` (Python 3.10+) |
+| Proposed fixes and reproducibility details | [Contributing](CONTRIBUTING.md) |
+
+The structural check does not run experiments or certify hardware, model accuracy or dependency compatibility. Reuse permissions need clarification: this checkout has no repository-wide licence file.
+
+
 <p align="center">
   <a href="paper/ICRA_Camera_Ready_Paper.pdf"><img src="https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge"></a>
   <a href="https://icra2026-sim2real.pages.dev/"><img src="https://img.shields.io/badge/Project-Website-blue?style=for-the-badge"></a>
